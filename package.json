@@ -1,0 +1,15 @@
+{
+  "name": "express-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express:serve": "cd backend && npm run dev",
+    "expres:install": "cd backend && npm i",
+    "vue:serve": "cd frontend && npm run serve",
+    "vue:install": "cd frontend && npm i"
+  },
+  "author": "",
+  "license": "ISC"
+}
